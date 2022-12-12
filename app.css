@@ -1,0 +1,64 @@
+
+*{
+    box-sizing: border-box;
+    padding:0px;
+    margin:0px;
+    max-width: 900px;
+    margin: 0 auto; 
+    
+  }
+
+.text, header{
+    text-align: center;
+    padding:20px 0px;
+  }
+
+
+  
+
+main{
+    padding-top: 100px;
+}
+
+.row1 {
+    width: 300px;
+    background-color: #2e0268;
+    color: white;
+    float: left;
+    
+}
+
+
+
+img{
+    float: left;
+    width: 100px;
+    padding-right: 10px;
+}
+
+h3{
+   font-weight: bold;
+   font-family: Anton;
+}
+
+.text-box{
+    padding-top: 5px;
+    line-height: 20px;
+}
+
+.adress{
+    color: #008cff;
+}
+
+.section2{
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
